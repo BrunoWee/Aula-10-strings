@@ -1,0 +1,71 @@
+// this is a js file
+/*
+*Bruno Wesley
+*/
+
+//Interpretação de código
+
+//1)
+
+//a. undefined
+//b. null
+//c. 11
+//d. 3
+//e. (11) [3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13]
+//f. 9
+
+//2)
+ 
+//SUBI NUM ÔNIBUS EM MIRROCOS 27
+
+//B. Escrita de código
+
+//1)
+/*
+const nome = prompt('Qual seu nome? ');
+const email = prompt('Qual seu e-mail? ');
+console.log(`O e-mail, ${email} foi cadastrado com sucesso. Seja bem-vinda(o), ${nome}`);
+*/
+
+//2)
+/*
+let comidasPreferidas = ["Batata frita, strogonoff, hamburguer, lasanha, macarrão"];
+console.log(comidasPreferidas)
+console.log("Essa são as minhas comidas preferidas: ", "Batata frita", "strogonoff", "hamburguer", "lasanha", "macarrão");
+console.log(comidasPreferidas)
+comidasPreferidas[1] = prompt('Qual sua comida preferida? ');
+console.log(comidasPreferidas);
+*/
+
+//3)
+/*
+const listaDeTarefas = []
+listaDeTarefas[0] = prompt('Informe 3 tarefas que você precisa realizar no seu dia: ');
+listaDeTarefas[1] = prompt('Informe 3 tarefas que você precisa realizar no seu dia: ');
+listaDeTarefas[2] = prompt('Informe 3 tarefas que você precisa realizar no seu dia: ');
+console.log(listaDeTarefas[0]);
+console.log(listaDeTarefas[1]);
+console.log(listaDeTarefas[2]);
+console.log(listaDeTarefas);
+
+let tarefa = Number(prompt("Digite o índice de uma tarefa já realizada: "));
+listaDeTarefas.splice(tarefa, 1);
+console.log(listaDeTarefas);
+*/
+
+//Desafios
+/*
+
+//1)
+const frase = ("Só sei que nada sei");
+const fraseArray = frase.split(" ");
+console.log(fraseArray);
+*/
+
+//2)
+/*
+const lista = ["Banana", "Morango", "Abacaxi", "Laranja", "Ameixa"];
+const IndiceAbacaxi = lista.indexOf("Abacaxi");
+console.log(IndiceAbacaxi);
+console.log(lista.length);
+*/
